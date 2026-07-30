@@ -1,0 +1,1 @@
+function inchesToFraction(x){return x;}
